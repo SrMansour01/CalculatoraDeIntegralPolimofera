@@ -1,4 +1,4 @@
-# Calculatora De Integral Polimofera
+# Calculatora De Integral de polinômio
 
 Este repositório contém um código JavaScript simples que calcula a derivada de um polinômio. A calculadora de derivadas permite que os usuários insiram os coeficientes do polinômio separados por vírgulas e, em seguida, retorna a derivada do polinômio como resultado.
 
